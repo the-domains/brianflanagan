@@ -1,0 +1,28 @@
+name: BrianFlanagan
+favicon: null
+layout_spectrum: 0.2838297593407333
+typography_spectrum: 0.4936716677621007
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8672372710425407
+  lightness: 0.09130022069439292
+  saturation: 0.44492958579212427
+  rhythmicContrast: 0.971352610271424
+purpose: []
