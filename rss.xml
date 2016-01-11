@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[BrianFlanagan]]></title>
         <description><![CDATA[BrianFlanagan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brianflanagan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 22:15:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 22:16:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brianflanagan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/brianflanagan/ee51189a-f77c-4ca7-91ba-6591bdf35215/index.html</link>
+            <guid isPermaLink="false">ee51189a-f77c-4ca7-91ba-6591bdf35215</guid>
+            <pubDate>Mon, 11 Jan 2016 22:16:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96c2d9aa-e53d-4473-aff6-b58c8bf0befb.jpg">]]></description>
-            <link>undefined2211f7ce-0248-4da9-be02-185908278487/index.html</link>
+            <link>https://thegrid.ai/brianflanagan/2211f7ce-0248-4da9-be02-185908278487/index.html</link>
             <guid isPermaLink="false">2211f7ce-0248-4da9-be02-185908278487</guid>
             <pubDate>Mon, 11 Jan 2016 22:15:36 GMT</pubDate>
         </item>
